@@ -7,9 +7,17 @@
     color: white !important;
 }
 
+/* body{
+    background-image: url("/images/bon.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 658px;
+    margin-top: 0px;
+} */
+
 #etudiant{
     background-image: url("/images/bon.jpg");
-    width: 1400px;
+    width: 100%;
     height: 658px;
     margin-top: 0%;
     
@@ -74,9 +82,10 @@ div .rouge-h3:hover{
 {
     #etudiant{
         background-image: url(/images/etudiant.2~3.jpg) !important;
-        width: 360px !important ;
+        width: 100% !important ;
         height: 550px !important;
         margin-top: 20px !important;
+        background-repeat: no-repeat;
     
     }
 
